@@ -2,6 +2,10 @@
 
 ##
 Online version hosted on Replit : https://whatsapp-web-clone.danikxd.repl.co
+_Needs a couple of minutes to start up after clicking on the link, use placeholder accounts:_
+uname: alice pwd: 12345
+uname: bob pwd: foo123
+
 
 ## Requirments
 As provided in package.json:
